@@ -469,7 +469,7 @@ export default function App() {
 
       <Box sx={{ p: 3, bgcolor: '#f5f5f5', mt: 4, textAlign: 'center' }}>
         <Typography variant="body2">
-          © 2024 India Land Registry Blockchain - Prototype
+          © 2026 India Land Registry Blockchain - Prototype
         </Typography>
       </Box>
     </Box>
